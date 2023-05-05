@@ -1,0 +1,200 @@
+id,year,state_abr,county_name,place_name,population_est,crime_type,crime_count,annualized_rate_per_100k,source_desc
+3502000,2020,NM,Bernalillo County,Albuquerque,562467,Fatal Shootings,77,13.69,GVA
+1714000,2020,IL,"Cook County, DuPage County",Chicago,2678220,Murder,780,29.12,AVorg yearly count
+602000,2020,CA,Orange County,Anaheim,353690,Fatal Shootings,13,3.68,GVA
+4260000,2020,PA,Philadelphia County,Philadelphia,1578735,Murder,469,29.71,AVorg yearly count
+3651000,2020,NY,"Bronx County, Kings County, New York County, Queens County, Richmond County",New York,8256951,Murder,459,5.56,AVorg yearly count
+203000,2020,AK,Anchorage Municipality,Anchorage,287166,Fatal Shootings,13,4.53,GVA
+4804000,2020,TX,Tarrant County,Arlington,398867,Fatal Shootings,27,6.77,GVA
+4835000,2020,TX,"Fort Bend County, Harris County, Montgomery County",Houston,2316103,Murder,400,17.27,AVorg yearly count
+644000,2020,CA,Los Angeles County,Los Angeles,3970747,Murder,346,8.71,AVorg yearly count
+1304000,2020,GA,"DeKalb County, Fulton County",Atlanta,512331,Fatal Shootings,149,29.08,GVA
+804000,2020,CO,"Adams County, Arapahoe County, Douglas County",Aurora,387304,Fatal Shootings,37,9.55,GVA
+2404000,2020,MD,Baltimore city,Baltimore,586484,Murder,333,56.78,AVorg yearly count
+2622000,2020,MI,Wayne County,Detroit,665580,Murder,299,44.92,AVorg yearly count
+4805000,2020,TX,"Hays County, Travis County, Williamson County",Austin,994787,Fatal Shootings,35,3.52,GVA
+4748000,2020,TN,Shelby County,Memphis,649759,Murder,275,42.32,AVorg yearly count
+603526,2020,CA,Kern County,Bakersfield,385598,Fatal Shootings,53,13.74,GVA
+2965000,2020,MO,St. Louis city,St. Louis,297780,Murder,264,88.66,AVorg yearly count
+2404000,2020,MD,Baltimore city,Baltimore,586484,Fatal Shootings,299,50.98,GVA
+4819000,2020,TX,"Collin County, Dallas County, Denton County, Kaufman County, Rockwall County",Dallas,1343263,Murder,236,17.57,FBI UCR yearly count
+2205000,2020,LA,East Baton Rouge Parish,Baton Rouge,219124,Fatal Shootings,109,49.74,GVA
+1836003,2020,IN,Marion County,Indianapolis,877811,Murder,216,24.61,FBI UCR yearly count
+107000,2020,AL,"Jefferson County, Shelby County",Birmingham,207031,Fatal Shootings,117,56.51,GVA
+455000,2020,AZ,Maricopa County,Phoenix,1707078,Murder,196,11.48,AVorg yearly count
+2507000,2020,MA,Suffolk County,Boston,691662,Fatal Shootings,56,8.1,GVA
+1150000,2020,DC,District of Columbia,Washington,712626,Murder,192,26.94,AVorg yearly count
+3611000,2020,NY,Erie County,Buffalo,254514,Fatal Shootings,41,16.11,GVA
+5553000,2020,WI,"Milwaukee County, Washington County, Waukesha County",Milwaukee,589146,Murder,190,32.25,AVorg yearly count
+412000,2020,AZ,Maricopa County,Chandler,265222,Fatal Shootings,10,3.77,GVA
+3712000,2020,NC,Mecklenburg County,Charlotte,899832,Fatal Shootings,114,12.67,GVA
+2255000,2020,LA,Orleans Parish,New Orleans,389547,Murder,178,45.69,AVorg yearly count
+3918000,2020,OH,"Delaware County, Fairfield County, Franklin County",Columbus,903688,Murder,174,19.25,FBI UCR yearly count
+5116000,2020,VA,Chesapeake city,Chesapeake,246944,Fatal Shootings,16,6.48,GVA
+3916000,2020,OH,Cuyahoga County,Cleveland,378706,Murder,160,42.25,FBI UCR yearly count
+1714000,2020,IL,"Cook County, DuPage County",Chicago,2678220,Fatal Shootings,724,27.03,GVA
+2148006,2020,KY,Jefferson County,Louisville/Jefferson County,618344,Murder,160,25.88,AVorg yearly count
+613392,2020,CA,San Diego County,Chula Vista,272890,Fatal Shootings,5,1.83,GVA
+2938000,2020,MO,"Cass County, Clay County, Jackson County, Platte County",Kansas City,497123,Murder,156,31.38,AVorg yearly count
+3915000,2020,OH,Hamilton County,Cincinnati,304544,Fatal Shootings,97,31.85,GVA
+3916000,2020,OH,Cuyahoga County,Cleveland,378706,Fatal Shootings,166,43.83,GVA
+1304000,2020,GA,"DeKalb County, Fulton County",Atlanta,512331,Murder,154,30.06,AVorg yearly count
+816000,2020,CO,El Paso County,Colorado Springs,481960,Fatal Shootings,30,6.22,GVA
+1235000,2020,FL,Duval County,Jacksonville,920276,Murder,141,15.32,AVorg yearly count
+3918000,2020,OH,"Delaware County, Fairfield County, Franklin County",Columbus,903688,Fatal Shootings,152,16.82,GVA
+4865000,2020,TX,"Bexar County, Comal County, Medina County",San Antonio,1566290,Murder,128,8.17,AVorg yearly count
+4817000,2020,TX,"Aransas County, Kleberg County, Nueces County, San Patricio County",Corpus Christi,327220,Fatal Shootings,33,10.08,GVA
+3712000,2020,NC,Mecklenburg County,Charlotte,899832,Murder,119,13.22,FBI UCR yearly count
+4819000,2020,TX,"Collin County, Dallas County, Denton County, Kaufman County, Rockwall County",Dallas,1343263,Fatal Shootings,219,16.3,GVA
+4752006,2020,TN,Davidson County,Nashville-Davidson,671230,Murder,117,17.43,AVorg yearly count
+820000,2020,CO,Denver County,Denver,735120,Fatal Shootings,69,9.39,GVA
+107000,2020,AL,"Jefferson County, Shelby County",Birmingham,207031,Murder,113,54.58,AVorg yearly count
+2622000,2020,MI,Wayne County,Detroit,665580,Fatal Shootings,257,38.61,GVA
+4827000,2020,TX,"Denton County, Parker County, Tarrant County, Wise County",Fort Worth,926919,Murder,110,11.87,FBI UCR yearly count
+2205000,2020,LA,East Baton Rouge Parish,Baton Rouge,219124,Murder,102,46.55,FBI UCR yearly count
+3719000,2020,NC,"Durham County, Orange County, Wake County",Durham,285695,Fatal Shootings,35,12.25,GVA
+4824000,2020,TX,El Paso County,El Paso,681472,Fatal Shootings,13,1.91,GVA
+3240000,2020,NV,Clark County,Las Vegas,662018,Murder,96,14.5,FBI UCR yearly count
+1825000,2020,IN,Allen County,Fort Wayne,272306,Fatal Shootings,39,14.32,GVA
+653000,2020,CA,Alameda County,Oakland,424801,Murder,96,22.6,AVorg yearly count
+4827000,2020,TX,"Denton County, Parker County, Tarrant County, Wise County",Fort Worth,926919,Fatal Shootings,90,9.71,GVA
+3915000,2020,OH,Hamilton County,Cincinnati,304544,Murder,88,28.9,AVorg yearly count
+626000,2020,CA,Alameda County,Fremont,234601,Fatal Shootings,2,0.85,GVA
+820000,2020,CO,Denver County,Denver,735120,Murder,85,11.56,AVorg yearly count
+627000,2020,CA,Fresno County,Fresno,530230,Fatal Shootings,79,14.9,GVA
+3502000,2020,NM,Bernalillo County,Albuquerque,562467,Murder,80,14.22,FBI UCR yearly count
+4829000,2020,TX,"Collin County, Dallas County, Rockwall County",Garland,238208,Fatal Shootings,5,2.1,GVA
+4075000,2020,OK,"Osage County, Rogers County, Tulsa County, Wagoner County",Tulsa,403092,Murder,78,19.35,AVorg yearly count
+2743000,2020,MN,Hennepin County,Minneapolis,432932,Murder,74,17.09,AVorg yearly count
+427820,2020,AZ,Maricopa County,Glendale,255195,Fatal Shootings,15,5.88,GVA
+3728000,2020,NC,Guilford County,Greensboro,297838,Fatal Shootings,51,17.12,GVA
+627000,2020,CA,Fresno County,Fresno,530230,Murder,73,13.77,AVorg yearly count
+665000,2020,CA,San Bernardino County,San Bernardino,217460,Murder,69,31.73,AVorg yearly count
+3231900,2020,NV,Clark County,Henderson,328854,Fatal Shootings,15,4.56,GVA
+477000,2020,AZ,Pima County,Tucson,553379,Murder,67,12.11,AVorg yearly count
+1230000,2020,FL,Miami-Dade County,Hialeah,232062,Fatal Shootings,5,2.15,GVA
+3611000,2020,NY,Erie County,Buffalo,254514,Murder,64,25.15,AVorg yearly count
+4835000,2020,TX,"Fort Bend County, Harris County, Montgomery County",Houston,2316103,Fatal Shootings,430,18.57,GVA
+1836003,2020,IN,Marion County,Indianapolis,877811,Fatal Shootings,227,25.86,GVA
+1245000,2020,FL,Miami-Dade County,Miami,471341,Murder,61,12.94,FBI UCR yearly count
+4055000,2020,OK,"Canadian County, Cleveland County, Oklahoma County, Pottawatomie County",Oklahoma City,662023,Murder,61,9.21,AVorg yearly count
+636770,2020,CA,Orange County,Irvine,283507,Fatal Shootings,1,0.35,GVA
+3728000,2020,NC,Guilford County,Greensboro,297838,Murder,59,19.81,FBI UCR yearly count
+4837000,2020,TX,Dallas County,Irving,240864,Fatal Shootings,8,3.32,GVA
+2507000,2020,MA,Suffolk County,Boston,691662,Murder,57,8.24,AVorg yearly count
+1235000,2020,FL,Duval County,Jacksonville,920276,Fatal Shootings,146,15.86,GVA
+4159000,2020,OR,"Clackamas County, Multnomah County, Washington County",Portland,656652,Murder,56,8.53,AVorg yearly count
+3436000,2020,NJ,Hudson County,Jersey City,262667,Fatal Shootings,14,5.33,GVA
+2938000,2020,MO,"Cass County, Clay County, Jackson County, Platte County",Kansas City,497123,Fatal Shootings,162,32.59,GVA
+675000,2020,CA,San Joaquin County,Stockton,312732,Murder,56,17.91,FBI UCR yearly count
+666000,2020,CA,San Diego County,San Diego,1422328,Murder,55,3.87,AVorg yearly count
+4841464,2020,TX,Webb County,Laredo,263580,Fatal Shootings,7,2.66,GVA
+3240000,2020,NV,Clark County,Las Vegas,662018,Fatal Shootings,42,6.34,GVA
+3451000,2020,NJ,Essex County,Newark,282536,Murder,51,18.05,AVorg yearly count
+2146027,2020,KY,Fayette County,Lexington-Fayette,324701,Fatal Shootings,33,10.16,GVA
+3663000,2020,NY,Monroe County,Rochester,205252,Murder,51,24.85,AVorg yearly count
+3128000,2020,NE,Lancaster County,Lincoln,290421,Fatal Shootings,7,2.41,GVA
+4261000,2020,PA,Allegheny County,Pittsburgh,299261,Murder,48,16.04,AVorg yearly count
+643000,2020,CA,Los Angeles County,Long Beach,454840,Fatal Shootings,26,5.72,GVA
+667000,2020,CA,San Francisco County,San Francisco,867115,Murder,48,5.54,AVorg yearly count
+5363000,2020,WA,King County,Seattle,769030,Murder,48,6.24,AVorg yearly count
+644000,2020,CA,Los Angeles County,Los Angeles,3970747,Fatal Shootings,133,3.35,GVA
+2148006,2020,KY,Jefferson County,Louisville/Jefferson County,618344,Fatal Shootings,174,28.14,GVA
+4805000,2020,TX,"Hays County, Travis County, Williamson County",Austin,994787,Murder,47,4.72,AVorg yearly count
+4845000,2020,TX,Lubbock County,Lubbock,262475,Fatal Shootings,31,11.81,GVA
+5157000,2020,VA,Norfolk city,Norfolk,242836,Murder,46,18.94,AVorg yearly count
+2079000,2020,KS,Sedgwick County,Wichita,391673,Murder,45,11.49,FBI UCR yearly count
+5548000,2020,WI,Dane County,Madison,262979,Fatal Shootings,10,3.8,GVA
+4748000,2020,TN,Shelby County,Memphis,649759,Fatal Shootings,253,38.94,GVA
+603526,2020,CA,Kern County,Bakersfield,385598,Murder,44,11.41,FBI UCR yearly count
+446000,2020,AZ,Maricopa County,Mesa,527756,Fatal Shootings,21,3.98,GVA
+1825000,2020,IN,Allen County,Fort Wayne,272306,Murder,43,15.79,AVorg yearly count
+1271000,2020,FL,Hillsborough County,Tampa,407324,Murder,41,10.07,FBI UCR yearly count
+1245000,2020,FL,Miami-Dade County,Miami,471341,Fatal Shootings,37,7.85,GVA
+664000,2020,CA,Sacramento County,Sacramento,512710,Murder,40,7.8,AVorg yearly count
+5553000,2020,WI,"Milwaukee County, Washington County, Waukesha County",Milwaukee,589146,Fatal Shootings,184,31.23,GVA
+2743000,2020,MN,Hennepin County,Minneapolis,432932,Fatal Shootings,76,17.55,GVA
+668000,2020,CA,Santa Clara County,San Jose,1014154,Murder,40,3.94,AVorg yearly count
+4752006,2020,TN,Davidson County,Nashville-Davidson,671230,Fatal Shootings,89,13.26,GVA
+3977000,2020,OH,Lucas County,Toledo,271524,Murder,40,14.73,AVorg yearly count
+2255000,2020,LA,Orleans Parish,New Orleans,389547,Fatal Shootings,176,45.18,GVA
+804000,2020,CO,"Adams County, Arapahoe County, Douglas County",Aurora,387304,Murder,39,10.07,FBI UCR yearly count
+3137000,2020,NE,Douglas County,Omaha,478367,Murder,37,7.73,AVorg yearly count
+3651000,2020,NY,"Bronx County, Kings County, New York County, Queens County, Richmond County",New York,8256951,Fatal Shootings,301,3.65,GVA
+3451000,2020,NJ,Essex County,Newark,282536,Fatal Shootings,48,16.99,GVA
+816000,2020,CO,El Paso County,Colorado Springs,481960,Murder,36,7.47,FBI UCR yearly count
+5157000,2020,VA,Norfolk city,Norfolk,242836,Fatal Shootings,42,17.3,GVA
+3719000,2020,NC,"Durham County, Orange County, Wake County",Durham,285695,Murder,36,12.6,AVorg yearly count
+3251800,2020,NV,Clark County,North Las Vegas,259804,Fatal Shootings,22,8.47,GVA
+643000,2020,CA,Los Angeles County,Long Beach,454840,Murder,36,7.91,AVorg yearly count
+4817000,2020,TX,"Aransas County, Kleberg County, Nueces County, San Patricio County",Corpus Christi,327220,Murder,34,10.39,FBI UCR yearly count
+653000,2020,CA,Alameda County,Oakland,424801,Fatal Shootings,86,20.24,GVA
+2146027,2020,KY,Fayette County,Lexington-Fayette,324701,Murder,34,10.47,AVorg yearly count
+4055000,2020,OK,"Canadian County, Cleveland County, Oklahoma County, Pottawatomie County",Oklahoma City,662023,Fatal Shootings,58,8.76,GVA
+2758000,2020,MN,Ramsey County,St. Paul,306758,Murder,34,11.08,AVorg yearly count
+3137000,2020,NE,Douglas County,Omaha,478367,Fatal Shootings,33,6.9,GVA
+1253000,2020,FL,Orange County,Orlando,289385,Fatal Shootings,50,17.28,GVA
+3775000,2020,NC,Forsyth County,Winston-Salem,248098,Murder,30,12.09,AVorg yearly count
+4260000,2020,PA,Philadelphia County,Philadelphia,1578735,Fatal Shootings,465,29.45,GVA
+4824000,2020,TX,El Paso County,El Paso,681472,Murder,28,4.11,FBI UCR yearly count
+4845000,2020,TX,Lubbock County,Lubbock,262475,Murder,28,10.67,FBI UCR yearly count
+455000,2020,AZ,Maricopa County,Phoenix,1707078,Fatal Shootings,166,9.72,GVA
+4261000,2020,PA,Allegheny County,Pittsburgh,299261,Fatal Shootings,48,16.04,GVA
+662000,2020,CA,Riverside County,Riverside,330744,Murder,26,7.86,AVorg yearly count
+3755000,2020,NC,"Durham County, Wake County",Raleigh,474408,Murder,25,5.27,AVorg yearly count
+4858016,2020,TX,"Collin County, Denton County",Plano,291150,Fatal Shootings,2,0.69,GVA
+4159000,2020,OR,"Clackamas County, Multnomah County, Washington County",Portland,656652,Fatal Shootings,41,6.24,GVA
+427820,2020,AZ,Maricopa County,Glendale,255195,Murder,24,9.4,FBI UCR yearly count
+4804000,2020,TX,Tarrant County,Arlington,398867,Murder,23,5.77,AVorg yearly count
+3755000,2020,NC,"Durham County, Wake County",Raleigh,474408,Fatal Shootings,22,4.64,GVA
+3260600,2020,NV,Washoe County,Reno,259155,Fatal Shootings,16,6.17,GVA
+1253000,2020,FL,Orange County,Orlando,289385,Murder,20,6.91,AVorg yearly count
+662000,2020,CA,Riverside County,Riverside,330744,Fatal Shootings,16,4.84,GVA
+446000,2020,AZ,Maricopa County,Mesa,527756,Murder,19,3.6,AVorg yearly count
+5367000,2020,WA,Spokane County,Spokane,222040,Murder,19,8.56,AVorg yearly count
+3663000,2020,NY,Monroe County,Rochester,205252,Fatal Shootings,42,20.46,GVA
+203000,2020,AK,Anchorage Municipality,Anchorage,287166,Murder,18,6.27,FBI UCR yearly count
+664000,2020,CA,Sacramento County,Sacramento,512710,Fatal Shootings,44,8.58,GVA
+3251800,2020,NV,Clark County,North Las Vegas,259804,Murder,18,6.93,FBI UCR yearly count
+4865000,2020,TX,"Bexar County, Comal County, Medina County",San Antonio,1566290,Fatal Shootings,145,9.26,GVA
+3436000,2020,NJ,Hudson County,Jersey City,262667,Murder,17,6.47,FBI UCR yearly count
+665000,2020,CA,San Bernardino County,San Bernardino,217460,Fatal Shootings,64,29.43,GVA
+3260600,2020,NV,Washoe County,Reno,259155,Murder,17,6.56,FBI UCR yearly count
+666000,2020,CA,San Diego County,San Diego,1422328,Fatal Shootings,40,2.81,GVA
+5182000,2020,VA,Virginia Beach city,Virginia Beach,451212,Murder,17,3.77,FBI UCR yearly count
+667000,2020,CA,San Francisco County,San Francisco,867115,Fatal Shootings,33,3.81,GVA
+668000,2020,CA,Santa Clara County,San Jose,1014154,Fatal Shootings,26,2.56,GVA
+602000,2020,CA,Orange County,Anaheim,353690,Murder,16,4.52,FBI UCR yearly count
+5116000,2020,VA,Chesapeake city,Chesapeake,246944,Murder,15,6.07,FBI UCR yearly count
+669000,2020,CA,Orange County,Santa Ana,331285,Fatal Shootings,11,3.32,GVA
+465000,2020,AZ,Maricopa County,Scottsdale,262472,Fatal Shootings,14,5.33,GVA
+669000,2020,CA,Orange County,Santa Ana,331285,Murder,15,4.53,FBI UCR yearly count
+5363000,2020,WA,King County,Seattle,769030,Fatal Shootings,26,3.38,GVA
+1263000,2020,FL,Pinellas County,St. Petersburg,267705,Murder,15,5.6,FBI UCR yearly count
+3231900,2020,NV,Clark County,Henderson,328854,Murder,13,3.95,FBI UCR yearly count
+5367000,2020,WA,Spokane County,Spokane,222040,Fatal Shootings,9,4.05,GVA
+4841464,2020,TX,Webb County,Laredo,263580,Murder,12,4.55,FBI UCR yearly count
+2965000,2020,MO,St. Louis city,St. Louis,297780,Fatal Shootings,281,94.36,GVA
+2758000,2020,MN,Ramsey County,St. Paul,306758,Fatal Shootings,32,10.43,GVA
+613392,2020,CA,San Diego County,Chula Vista,272890,Murder,11,4.03,AVorg yearly count
+1263000,2020,FL,Pinellas County,St. Petersburg,267705,Fatal Shootings,16,5.98,GVA
+5548000,2020,WI,Dane County,Madison,262979,Murder,10,3.8,AVorg yearly count
+675000,2020,CA,San Joaquin County,Stockton,312732,Fatal Shootings,55,17.59,GVA
+4837000,2020,TX,Dallas County,Irving,240864,Murder,9,3.74,FBI UCR yearly count
+412000,2020,AZ,Maricopa County,Chandler,265222,Murder,8,3.02,AVorg yearly count
+1271000,2020,FL,Hillsborough County,Tampa,407324,Fatal Shootings,35,8.59,GVA
+3977000,2020,OH,Lucas County,Toledo,271524,Fatal Shootings,54,19.89,GVA
+465000,2020,AZ,Maricopa County,Scottsdale,262472,Murder,8,3.05,AVorg yearly count
+477000,2020,AZ,Pima County,Tucson,553379,Fatal Shootings,54,9.76,GVA
+1230000,2020,FL,Miami-Dade County,Hialeah,232062,Murder,7,3.02,FBI UCR yearly count
+3128000,2020,NE,Lancaster County,Lincoln,290421,Murder,7,2.41,AVorg yearly count
+4075000,2020,OK,"Osage County, Rogers County, Tulsa County, Wagoner County",Tulsa,403092,Fatal Shootings,65,16.13,GVA
+1571550,2020,,Honolulu County,Urban Honolulu CDP,348084,Fatal Shootings,4,1.15,GVA
+4829000,2020,TX,"Collin County, Dallas County, Rockwall County",Garland,238208,Murder,6,2.52,AVorg yearly count
+5182000,2020,VA,Virginia Beach city,Virginia Beach,451212,Fatal Shootings,17,3.77,GVA
+4858016,2020,TX,"Collin County, Denton County",Plano,291150,Murder,3,1.03,AVorg yearly count
+1150000,2020,DC,District of Columbia,Washington,712626,Fatal Shootings,182,25.54,GVA
+626000,2020,CA,Alameda County,Fremont,234601,Murder,2,0.85,FBI UCR yearly count
+2079000,2020,KS,Sedgwick County,Wichita,391673,Fatal Shootings,52,13.28,GVA
+3775000,2020,NC,Forsyth County,Winston-Salem,248098,Fatal Shootings,26,10.48,GVA
+636770,2020,CA,Orange County,Irvine,283507,Murder,1,0.35,FBI UCR yearly count
